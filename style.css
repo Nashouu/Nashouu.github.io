@@ -33,18 +33,16 @@ a:hover {
 
 .bold {
     font-weight: bold;
+    display: inline;
 }
 
 .style1 {
     color: darkcyan;
     opacity: 0.75;
+    display: inline;
 }
 
 .style2 {
     color: midnightblue;
     opacity: 0.75;
-}
-
-.focus {
-    text-decoration: underline;
 }
