@@ -1,0 +1,32 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-image: url(https://img.pikbest.com/wp/202344/snowflake-snow-texture-black-isolated-background-with-white-snowflakes_9924109.jpg!sw800);
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    background-image: url(https://img.pikbest.com/wp/202344/snowflake-snow-texture-black-isolated-background-with-white-snowflakes_9924109.jpg!sw800);
+    color: white;
+    text-align: center;
+}
+
+.just {
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    color: chartreuse;
+}
+
+a:hover {
+    color: mediumaquamarine;
+}
+
+.focus {
+    text-decoration: underline;
+}
