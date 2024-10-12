@@ -20,11 +20,29 @@ h2 {
 }
 
 a {
-    color: chartreuse;
+    color: mediumaquamarine;
 }
 
 a:hover {
-    color: mediumaquamarine;
+    color: mediumslateblue;
+}
+
+.focus {
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.style1 {
+    color: darkcyan;
+    opacity: 0.75;
+}
+
+.style2 {
+    color: midnightblue;
+    opacity: 0.75;
 }
 
 .focus {
