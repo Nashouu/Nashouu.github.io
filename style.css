@@ -3,13 +3,13 @@
 }
 
 h1 {
-    background-image: url(https://img.pikbest.com/wp/202344/snowflake-snow-texture-black-isolated-background-with-white-snowflakes_9924109.jpg!sw800);
+    background-image: url(https://t.ly/fTx3_);
     color: white;
     text-align: center;
 }
 
 h2 {
-    background-image: url(https://img.pikbest.com/wp/202344/snowflake-snow-texture-black-isolated-background-with-white-snowflakes_9924109.jpg!sw800);
+    background-image: url(https://t.ly/fTx3_);
     color: white;
     text-align: center;
 }
@@ -17,6 +17,10 @@ h2 {
 .just {
     text-align: justify;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.do-it:hover {
+    color: red;
 }
 
 a {
@@ -45,4 +49,22 @@ a:hover {
 .style2 {
     color: midnightblue;
     opacity: 0.75;
+    display: inline;
+}
+
+.style3 {
+    color: darkmagenta;
+    opacity: 0.75;
+    display: inline;
+}
+
+.style4 {
+    color: goldenrod;
+    opacity: 1;
+    font-weight: bold;
+}
+
+.footer {
+    text-align: center;
+    color: gray;
 }
